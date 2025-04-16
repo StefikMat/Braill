@@ -16,7 +16,7 @@
 # 🧠 Technologie
 
 - **Desktopová aplikace**: C# (WPF) [`/desktop-app`](https://github.com/YOUR-USERNAME/Braill/tree/main/desktop-app)
-- **Firmware pro Micro:bit**: Python
+- **Firmware pro Micro:bit**: Python [`/microbit code`](https://github.com/YOUR-USERNAME/Braill/tree/main/microbitcode)
 - **3D modely krabičky**: STL soubory ve složce [`/3d modely`](https://github.com/YOUR-USERNAME/Braill/tree/main/3dmodely)
 - **Fotky projektu a týmu**: Ve složce [`/photos`](https://github.com/YOUR-USERNAME/Braill/tree/main/photos)
 - **Prezentace a dokumentace**: [`/documentys`](https://github.com/YOUR-USERNAME/Braill/tree/main/documentys)
@@ -51,8 +51,9 @@ Desktop aplikace **Braill** je moderní nástroj pro komunikaci a ovládání za
 - 🔽 [Stáhnout poslední verzi (Braill.exe)](https://github.com/StefikMat/Braill/releases/download/1.0.0/Braille_v1.0.zip)
 
 > _Poznámka: Před spuštěním může být nutné potvrdit oprávnění, pokud aplikaci stahujete poprvé._
+
 ### 🚀 Spuštění 
-<pre lang="markdown"> npm install npm start </pre>
+`npm install npm start `
 
 ---
 ### 🛠️  Michalova Sekta
